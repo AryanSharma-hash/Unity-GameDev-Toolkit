@@ -1,0 +1,11 @@
+/[Lo]gs/
+/[Lb]ibrary/
+/[Ob]ject/
+/[Tt]emp/
+/[Pp]rojectSettings/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
